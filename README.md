@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/eng-bahaa-alkatieb/" target="_blank" rel="noopener noreferrer">Bahaa Alkhateeb</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
 <h3 align="center">
-  A passionate and Up-to-date Android developer from Palestine
+  A passionate and Up-to-date Android developer
 
 </h3>
 
